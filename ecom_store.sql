@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS `admins` (
 --
 
 INSERT INTO `admins` (`admin_id`, `admin_name`, `admin_email`, `admin_pass`, `admin_image`, `admin_city`, `admin_contact`) VALUES
-(1, 'sanika', 'gandhisanika27@gmail.com', 'admin', 'profile.png', 'Ratnagiri', '9130252268');
+(1, 'sanika', 'gandhisanika27@gmail.com', 'admin', 'profile.png', 'Ratnagiri', '9833289432');
 
 -- --------------------------------------------------------
 
