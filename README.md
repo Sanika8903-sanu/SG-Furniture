@@ -18,5 +18,25 @@
 | Bootstrap      |           |          |
 
 
+## 🚀 How to Use
+
+1. Clone the repository or download ZIP
+2. Import `ecom_store.sql` into your MySQL database
+3. Update database credentials in `includes/db.php`
+4. Run project on localhost using XAMPP or any local server
+5. Open `index.php` in your browser
+
+## 👩‍💻 Developed By
+
+**Sanika Gandhi**  
+📧 Email: sanikagandhi89@example.com  
+
+
+
+
+## 📜 License
+
+This project is for educational/demo purposes only.
+
 
 
